@@ -54,7 +54,8 @@
 		"@wordpress/token-list": "file:packages/token-list",
 		"@wordpress/url": "file:packages/url",
 		"@wordpress/viewport": "file:packages/viewport",
-		"@wordpress/wordcount": "file:packages/wordcount"
+		"@wordpress/wordcount": "file:packages/wordcount",
+		"fast-average-color": "4.3.0"
 	},
 	"devDependencies": {
 		"@babel/core": "7.2.2",
