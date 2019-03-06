@@ -12,7 +12,7 @@ const packages = [
 	//'block-serialization-default-parser',
 	//'blocks',
 	//'compose',
-	//'data',
+	'data',
 	//'date',
 	//'deprecated',
 	//'dom',
