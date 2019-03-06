@@ -9,7 +9,7 @@ const packages = [
 	//'blob',
 	//'block-editor',
 	//'block-library',
-	//'block-serialization-default-parser',
+	'block-serialization-default-parser',
 	//'blocks',
 	//'compose',
 	//'data',
